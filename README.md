@@ -2,7 +2,7 @@
 
 Original repo: https://github.com/jhochwald/PowerShell-collection
 
-A collection of scripts that I am modifying for use in my own client environments. Please see the original repo if you have any expectation for anything to work properly. Many thanks to jhochwald for providing the source material.
+A collection of scripts that I am modifying for use in my own development, training, and client environments. Please see the original repo if you have any expectation for anything to work properly. Many thanks to jhochwald for providing the source material.
 
 ### Default License
 
